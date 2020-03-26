@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "rooterTest1": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rooterTest1"
+    }
+  },
+  "defaultProject": "rooterTest1",
+  "cli": {
+    "analytics": "535814b9-3cdd-4ed7-ad67-e61c2e6e8dda"
+  }
 }
